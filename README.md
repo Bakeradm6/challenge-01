@@ -30,6 +30,8 @@ Thanks to www.makeareadme.com for giving me a template to form this readme
 
 Thanks to https://choosealicense.com/licenses/mit/ for giving me the template for an MIT license
 
+Thanks to UofW Bootcamp for providing the original code
+
 ## License
 
 MIT License
