@@ -2,7 +2,7 @@
 
 ## Project description
 
-Week 1 challenge for OofW boot camp. Refract given coded into cleaner code, and fixed issues on the page
+Week 1 challenge for OofW boot camp. Refract given code into cleaner code, and fixed issues on the page
 
 ## Installation
 
